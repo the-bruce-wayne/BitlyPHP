@@ -1,5 +1,5 @@
 
-This is a very simple PHP library for interacting with the v3 bit.ly api (supports OAuth endpoints). It should support all basic endpoints that are found/available via http://dev.bitly.com/api.html.
+This is a very simple PHP library for interacting with the v4 bit.ly api (supports OAuth endpoints). It should support all basic endpoints that are found/available via https://dev.bitly.com/v4_documentation.html.
 
 ==============
 REQUIREMENTS:
